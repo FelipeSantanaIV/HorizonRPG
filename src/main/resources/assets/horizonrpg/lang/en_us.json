@@ -1,0 +1,13 @@
+{
+  "itemGroup.horizonrpg": "Example Mod Tab",
+  "block.horizonrpg.example_block": "Example Block",
+  "item.horizonrpg.example_item": "Example Item",
+
+  "horizonrpg.configuration.title": "HorizonRpg Configs",
+  "horizonrpg.configuration.section.horizonrpg.common.toml": "HorizonRpg Configs",
+  "horizonrpg.configuration.section.horizonrpg.common.toml.title": "HorizonRpg Configs",
+  "horizonrpg.configuration.items": "Item List",
+  "horizonrpg.configuration.logDirtBlock": "Log Dirt Block",
+  "horizonrpg.configuration.magicNumberIntroduction": "Magic Number Text",
+  "horizonrpg.configuration.magicNumber": "Magic Number"
+}
